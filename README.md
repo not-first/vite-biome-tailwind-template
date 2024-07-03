@@ -1,6 +1,9 @@
-# vite-biome-tailwind project template
+# vite-biome-tailwind-template
 
-Simple expansion of Vite's react template to create TypeScript projects integrated with:
+![Default webpage screenshot](https://github.com/not-first/vite-biome-tailwind-template/assets/111339712/d0bdd8b6-6b1c-483f-acd4-dc80e1ed8bf6)
+---
+
+Simple expansion of Vite's React template to create TypeScript projects integrated with:
 
 - [BiomeJS](https://biomejs.dev/): A fast formatter and linter (replacing both ESLint and Prettier) written in rust.
 - [TailwindCSS](https://tailwindcss.com/): CSS utility that provides classes to apply inline styles to components

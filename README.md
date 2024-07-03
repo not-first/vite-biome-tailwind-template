@@ -5,14 +5,14 @@
 
 Simple expansion of Vite's React template to create TypeScript projects integrated with:
 
-- [BiomeJS](https://biomejs.dev/): A fast formatter and linter (replacing both ESLint and Prettier) written in rust.
+- [Biome](https://biomejs.dev/): A fast formatter and linter (replacing both ESLint and Prettier) written in rust.
 - [TailwindCSS](https://tailwindcss.com/): CSS utility that provides classes to apply inline styles to components
 
 ## Contents
 
 The unchanged vite-generated files: `.gitignore`, `index.html`, `tsconfig.app.js`, `tsconfig.node.json`, `tsconfig.json`, `vite-config` files.
 
-A `package.json` (and `package-lock.json`) file with ESLint, Prettier and their dependencies removed. BiomeJS and TailwindCSS are installed as devDependencies. Available scripts are:
+A `package.json` (and `package-lock.json`) file with ESLint, Prettier and their dependencies removed. Biome and TailwindCSS are installed as devDependencies. Available scripts are:
 
 - `dev`, `build`, `preview` as provided by Vite
 - `format`: formats the project using Biome's formatter

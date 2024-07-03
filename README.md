@@ -28,7 +28,7 @@ Biome config file `biome.json`. In addition to default config, it has git integr
     - Copying using [degit](https://github.com/Rich-Harris/degit) to download the files in the repo without the git history. (RECOMMENDED)
       - `npx degit not-first/vite-biome-tailwind-template project-name`
 
-    - Cloning this repo to your machine. This will keep git history.
+    - Cloning this repo to your machine. This will keep the git history of this repo.
        - `git clone https://github.com/not-first/vite-biome-tailwind-template.git`
 
     - Creating a repo using this template. Note that your repo will signify that it was built from this template.

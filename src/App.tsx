@@ -43,7 +43,7 @@ function App() {
           >
             <img
               src={biomeLogo}
-              alt="BiomeJS logo"
+              alt="Biome logo"
               className="h-32 p-6 transition-all duration-300 ease-in-out hover:scale-110 hover:drop-shadow-2xl hover:filter"
             />
           </a>
